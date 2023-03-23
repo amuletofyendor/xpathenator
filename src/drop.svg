@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1440.00" height="1440.00" viewBox="0.00 0.00 6000.00 6000.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke-linecap="round" id="Layer_1">
+<path d="M600.00,3400.00 L600.00,5400.00" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M600.00,5400.00 L5400.00,5400.00" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M5400.00,5400.00 L5400.00,3400.00" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M5400.00,3400.00 L5200.00,3400.00" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M600.00,3400.00 L800.00,3400.00" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M3000.00,4600.00 L3000.00,3000.00" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M3000.00,4600.00 L3406.67,4193.33" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M3000.00,4600.00 L2593.33,4206.67" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M2187.83,412.06 L2187.83,2019.57 L2187.83,2115.99 L2187.83,2253.74 L2187.83,2340.52" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M2187.83,2340.52 L2528.96,2340.52 L2611.58,2340.52 L3055.40,2340.52 L3138.03,2340.52 L3251.35,2340.52 L3287.94,2340.52 L3333.97,2340.52 L3370.57,2340.52 L3840.36,2340.52" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M3840.36,2340.52 L3840.36,963.05" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M3840.36,963.05 L3368.20,412.06" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M3368.20,412.06 L2187.83,412.06" fill="none" stroke="rgb(0, 0, 0)" stroke-width="482.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+</g>
+</svg>

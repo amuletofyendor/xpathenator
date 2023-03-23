@@ -1,0 +1,88 @@
+{
+  "customer": {
+    "id": "string",
+    "name": {
+      "first": "string",
+      "last": "string",
+      "middle": "string"
+    },
+    "dob": "date",
+    "address": {
+      "street": "string",
+      "city": "string",
+      "state": "string",
+      "country": "string",
+      "zipcode": "string"
+    },
+    "email": "string",
+    "phone": "string",
+    "policies": [
+      {
+        "id": "string",
+        "type": "string",
+        "start_date": "date",
+        "end_date": "date",
+        "status": "string",
+        "premium": {
+          "amount": "number",
+          "frequency": "string"
+        },
+        "coverage": [
+          {
+            "description": "string",
+            "amount": "number"
+          }
+        ],
+        "beneficiaries": [
+          {
+            "name": {
+              "first": "string",
+              "last": "string",
+              "middle": "string"
+            },
+            "relationship": "string",
+            "share": "number"
+          }
+        ]
+      }
+    ]
+  },
+  "claim": {
+    "id": "string",
+    "policy_id": "string",
+    "date": "date",
+    "status": "string",
+    "type": "string",
+    "description": "string",
+    "amount": "number",
+    "documents": [
+      {
+        "id": "string",
+        "type": "string",
+        "url": "string"
+      }
+    ]
+  },
+  "agent": {
+    "id": "string",
+    "name": {
+      "first": "string",
+      "last": "string",
+      "middle": "string"
+    },
+    "email": "string",
+    "phone": "string",
+    "commission": {
+      "rate": "number",
+      "start_date": "date",
+      "end_date": "date"
+    },
+    "customers": [
+      {
+        "id": "string",
+        "relationship_start_date": "date"
+      }
+    ]
+  }
+}
+

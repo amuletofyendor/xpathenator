@@ -1,0 +1,28 @@
+{
+  "data": {
+    "single'quote": "value1",
+    "double\"quote": "value2",
+    "back\\slash": "value3",
+    "square[bracket": "value4",
+    "curly{brace": "value5",
+    "round(parenthesis": "value6",
+    "forward/slash": "value7",
+    "pipe|symbol": "value8",
+    "at@symbol": "value9",
+    "colon:symbol": "value9",
+    "dot.symbol": "value9",
+    "hashtag#": "value10",
+    "nested": {
+      "nested'single'quote": "nestedValue1",
+      "nested\"double\"quote": "nestedValue2",
+      "array": [
+        {
+          "array[0]key": "arrayValue1"
+        },
+        {
+          "array[1]key": "arrayValue2"
+        }
+      ]
+    }
+  }
+}
